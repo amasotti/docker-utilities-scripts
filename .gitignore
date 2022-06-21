@@ -1,0 +1,5 @@
+**/*.log
+
+# IDEs aux files
+.idea/
+.vscode/
